@@ -28,3 +28,27 @@ The Password Generator is a Python-based desktop application built using Tkinter
 - Save Password: Click the "Save Password" button to save the password with the provided label to a file.
 
 ### Screenshots
+Here are some screenshots of the output:
+
+### Output 1
+![Output 1](screenshots/image001.png)
+
+### Output 2
+![Output 2](screenshots/image003.png)
+
+### Output 3
+![Output 3](screenshots/image004.png)
+
+### Output 4
+![Output 3](screenshots/image006.png)
+
+### Output 5
+![Output 5](screenshots/image008.png)
+
+### Output 6
+![Output 6](screenshots/image010.png)
+
+### Output 7
+![Output 7](screenshots/image012.png)
+
+

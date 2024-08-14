@@ -19,12 +19,12 @@ The Password Generator is a Python-based desktop application built using Tkinter
 
 ## Using the Application:
 
-Start Password Generation: Click the "Start Password Generation" button.
-Enter Password Length: Input the desired length of the password.
-Include Special Characters: Check or uncheck the "Include Special Characters" option.
-Enter Label/Description: Provide an optional label or description for the password.
-Generate Password: Click the "Generate Password" button to create a password.
-Copy to Clipboard: Click the "Copy to Clipboard" button to copy the generated password.
-Save Password: Click the "Save Password" button to save the password with the provided label to a file.
+- Start Password Generation: Click the "Start Password Generation" button.
+- Enter Password Length: Input the desired length of the password.
+- Include Special Characters: Check or uncheck the "Include Special Characters" option.
+- Enter Label/Description: Provide an optional label or description for the password.
+- Generate Password: Click the "Generate Password" button to create a password.
+- Copy to Clipboard: Click the "Copy to Clipboard" button to copy the generated password.
+- Save Password: Click the "Save Password" button to save the password with the provided label to a file.
 
 ### Screenshots

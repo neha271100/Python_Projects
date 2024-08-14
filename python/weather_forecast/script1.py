@@ -4,7 +4,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 from datetime import datetime
 
-API_KEY = '30400ba0bbee651080a3cafe66d5db4b'  
+API_KEY = 'xxxxxxxxxxxxxxxxx'  
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 class WeatherApp:

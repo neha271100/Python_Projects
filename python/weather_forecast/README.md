@@ -1,6 +1,7 @@
 # Weather Forecast Project
 
 This project predicts the weather using data from an API.
+Note :- Make sure update api key using your api key 
 
 ## Output
 

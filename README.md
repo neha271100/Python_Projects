@@ -1,4 +1,5 @@
 # Python_Projects
-## Here are my python projects which i created during my Internship at TDS AVENUE CODEFORAGE
+## Here are my Python projects which I created during my Internship at TDS AVENUE CODEFORGE
+
 ### First One
-![First One](python/weather_forecast)
+[Weather Forecast Project](https://github.com/neha271100/Python_Projects/tree/main/python/weather_forecast)

@@ -38,4 +38,4 @@ This is a simple Rock, Paper, Scissors game implemented as a web application usi
 5. **Open your web browser and go to:**
   http://127.0.0.1:8080
 ## Screenshots
-Screenshots of the web app can be found in the screenshots folder. [Flask app Project](https://github.com/neha271100/Python_Projects/tree/main/python/flask_app/screenshots)
+Screenshots of the web app can be found in the screenshots folder. [Flask app Project](https://github.com/neha271100/Python_Projects/tree/main/python/Rock_Paper_Sissors/flask_app/screenshots)

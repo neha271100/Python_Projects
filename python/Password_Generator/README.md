@@ -51,4 +51,11 @@ Here are some screenshots of the output:
 ### Output 7
 ![Output 7](screenshots/image012.png)
 
+### Acknowledgements
+This project was made possible with the use of the following Python modules:
 
+- Tkinter - for creating the graphical user interface.
+- Random - for generating random characters in the password.
+- String - for handling string operations like assembling character sets.
+- Messagebox - for displaying confirmation and alert dialogs.
+- Pyperclip - for copying text to the clipboard.

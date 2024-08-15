@@ -18,3 +18,7 @@ This is a simple Rock, Paper, Scissors game implemented using Python's `tkinter`
 - The `tkinter` library, which comes pre-installed with Python.
 
 ### Screenshots 
+![Output 1](screenshots/image001.png)
+![Output 2](screenshots/image004.png)
+![Output 3](screenshots/image007.png)
+![Output 4](screenshots/image009.png)

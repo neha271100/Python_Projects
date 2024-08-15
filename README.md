@@ -7,7 +7,7 @@
 ### Password Generator 
 [Password_Generator](https://github.com/neha271100/Python_Projects/tree/main/python/Password_Generator)
 
-### Rock Paper Sissor app 
+### Rock Paper Sissors app 
 #### Using Flask  
-[Rock_paper_sissor](https://github.com/neha271100/Python_Projects/tree/main/python/flask_app)
+[Rock_paper_sissors](https://github.com/neha271100/Python_Projects/tree/main/python/flask_app)
 #### Using Tkinter

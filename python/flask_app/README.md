@@ -21,3 +21,21 @@ This is a simple Rock, Paper, Scissors game implemented as a web application usi
    ```bash
    git clone https://github.com/neha271100/rock-paper-scissors-flask.git
    cd rock-paper-scissors-flask
+
+2. **Create and activate a virtual environment (optional but recommended):**
+   ```bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+3. **Install the required dependencies:**
+   ```bash
+pip install Flask
+
+4. **Run the application:**
+   ```bash
+python app.py
+
+5. **Open your web browser and go to:**
+  http://127.0.0.1:8080
+## Screenshots
+Screenshots of the web app can be found in the screenshots folder. 

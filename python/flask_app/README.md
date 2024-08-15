@@ -29,13 +29,13 @@ This is a simple Rock, Paper, Scissors game implemented as a web application usi
 
 3. **Install the required dependencies:**
    ```bash
-pip install Flask
+      pip install Flask
 
 4. **Run the application:**
    ```bash
-python app.py
+        python app.py
 
 5. **Open your web browser and go to:**
   http://127.0.0.1:8080
 ## Screenshots
-Screenshots of the web app can be found in the screenshots folder. 
+Screenshots of the web app can be found in the screenshots folder. [Password Generator Project](https://github.com/neha271100/Python_Projects/tree/main/python/Password_generator/screenshots)

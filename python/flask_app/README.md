@@ -24,8 +24,8 @@ This is a simple Rock, Paper, Scissors game implemented as a web application usi
 
 2. **Create and activate a virtual environment (optional but recommended):**
    ```bash
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 3. **Install the required dependencies:**
    ```bash

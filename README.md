@@ -9,5 +9,7 @@
 
 ### Rock Paper Sissors app 
 #### Using Flask  
-[Rock_paper_sissors](https://github.com/neha271100/Python_Projects/tree/main/python/flask_app)
+[Rock_paper_sissors](https://github.com/neha271100/Python_Projects/tree/main/python/Rock_Paper_Sissors/flask_app)
+
 #### Using Tkinter
+[Rock_paper_sissors](https://github.com/neha271100/Python_Projects/tree/main/python/Rock_Paper_Sissors/README.md)
